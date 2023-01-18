@@ -1,0 +1,61 @@
+hotel_id,type,price
+1,Laundry,$30.09 
+2,Laundry,$25.58 
+3,Laundry,$28.79 
+4,Laundry,$25.53 
+5,Laundry,$20.29 
+6,Laundry,$22.09 
+7,Laundry,$30.75 
+8,Laundry,$34.35 
+9,Laundry,$28.85 
+10,Laundry,$22.11 
+11,Laundry,$23.79 
+12,Laundry,$31.22 
+13,Laundry,$34.41 
+14,Laundry,$22.49 
+15,Laundry,$22.87 
+16,Laundry,$33.80 
+17,Laundry,$25.26 
+18,Laundry,$27.75 
+19,Laundry,$25.19 
+20,Laundry,$33.71 
+21,Laundry,$24.09 
+22,Laundry,$21.25 
+23,Laundry,$28.53 
+24,Laundry,$27.60 
+25,Laundry,$33.12 
+26,Laundry,$30.35 
+1,Breakfast,$23.67 
+2,Breakfast,$20.62 
+3,Breakfast,$30.59 
+4,Breakfast,$28.69 
+5,Breakfast,$23.45 
+6,Breakfast,$24.51 
+7,Breakfast,$32.73 
+8,Breakfast,$23.53 
+9,Breakfast,$30.00 
+10,Breakfast,$25.48 
+11,Breakfast,$24.69 
+12,Breakfast,$25.43 
+13,Breakfast,$29.01 
+14,Breakfast,$27.98 
+15,Breakfast,$23.81 
+16,Breakfast,$28.73 
+17,Breakfast,$31.94 
+18,Breakfast,$21.47 
+19,Breakfast,$32.83 
+20,Breakfast,$31.15 
+22,Valet Parking,$41.64 
+26,Business Center,$46.37 
+23,Gym & Pool,$54.55 
+26,Valet Parking,$50.23 
+22,Business Center,$53.15 
+4,Valet Parking,$53.60 
+12,Business Center,$47.86 
+13,Gym & Pool,$49.81 
+10,Valet Parking,$40.43 
+6,Business Center,$49.88 
+,,
+,,
+,,
+,,
